@@ -1,6 +1,6 @@
 # MIT Data Task
 
-### Your clean data
+### My clean data
 My cleaned data is under the "Data" folder and under "cleaneddata" folder.
 
 ### Any raw data files you used in their original format
