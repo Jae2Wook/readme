@@ -10,4 +10,7 @@ All the raw data files are under the "Data" folder.
 My codes are in MIT_Blueprint.pdf.
 
 ### A short (say, 3-4 page) PDF answering the questions in the task
-My answers for the questions are in answers.pdf.
+My answers to the questions are in answers.pdf.
+
+### A readme text describing the contents of the folder
+Click the readme Chrome button.
